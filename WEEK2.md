@@ -43,17 +43,21 @@ IS: how employees use Salesforce, the workflow, data analysis, and decision-maki
 
 ## 04. ROM & DRAM
 **ROM**（Read Only Memory）
+> a type of computer memory that stores permanent data and instructions for the device to start up
+> データを読み出すことしかできない、電源を切っても内容が消えない不揮発性の記憶装置（メモリ）です
 
 **DRAM**（ディーラム：Dynamic Random Access Memory）
+> a type of volatile semiconductor memory used as the primary, high-speed, temporary storage (RAM) in computers, smartphones, and servers
+> PCやスマホで高速な作業領域（メインメモリ）として使われる、安価で大容量な揮発性半導体メモリ
 
-Aspect	      |                 ROM (Read-Only Memory)             	|    DRAM (Dynamic Random Access Memory)
---------------------------------------------------------------------|------------------------------------
-Meaning　　　	| 　                  　Read-Only Memory	          　|    Dynamic Random Access Memory
-Data Storage　|               Permanent (non-volatile)             	|     Temporary (volatile)
-Power Off　　	|      Data remains stored even when power is off     |    Data disappears when power is off
-Usage	　　　　 | Stores important system instructions like firmware	|    Used as the computer’s main working memory
-Speed	　　　　 |         Generally slower to write but stable      	|    Fast access for running programs
-Example Use　	|           BIOS / system startup instructions	      |    Programs and data currently in use
+| Aspect | ROM (Read-Only Memory) | DRAM (Dynamic Random Access Memory) |
+|------|------|------|
+| Meaning | Read-Only Memory | Dynamic Random Access Memory |
+| Data Storage | Permanent (non-volatile) | Temporary (volatile) |
+| Power Off | Data remains stored | Data disappears |
+| Usage | Stores system instructions (firmware) | Main memory for running programs |
+| Speed | Slower to write | Faster for active processing |
+| Example | BIOS firmware | Computer main memory |
 
 
 
