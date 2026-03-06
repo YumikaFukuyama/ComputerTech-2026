@@ -3,6 +3,7 @@
 ## 01. What Is Computer Technology (計算機概論)
 <img width="1034" height="647" alt="image" src="https://github.com/user-attachments/assets/91fe97da-d1ed-4dd5-9143-4369e4375d24" />  
 : Computer Technology refers to the design, development, and use of computers and related systems to process, store, and share information. It combines hardware, software, and networks to perform tasks efficiently. 💻  
+
 1. Hardware  
 2. Software  
 3. Networking  
