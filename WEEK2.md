@@ -50,7 +50,15 @@ IS: how employees use Salesforce, the workflow, data analysis, and decision-maki
 | Speed | Slower to write | Faster for active processing |
 | Example | BIOS firmware | Computer main memory |
 
+**ROM**
+- ROM stores permanent instructions needed to start a computer.
+- For example, the firmware such as BIOS is stored in ROM.
+- Because it is non-volatile, the data stays even when the computer is turned off.
 
+**DRAM**
+- DRAM is a type of RAM used as the main memory in computers.
+- It temporarily stores programs and data that the CPU is currently using.
+- It must be constantly refreshed to keep the data, which is why it is called “dynamic”.
 
 
 
