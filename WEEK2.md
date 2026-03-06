@@ -15,17 +15,25 @@
 
 5. Applications in Real Life
 
+### Data Representation & Number Systems -資料表示與處理-
+-Data Storage Units- Bit → Byte → KB → MB → GB → TB. Each step is ×1024.
+
+<img width="319" height="339" alt="image" src="https://github.com/user-attachments/assets/c2dde355-2300-4188-a11c-2861361f0d09" />
+<img width="800" height="730" alt="image" src="https://github.com/user-attachments/assets/9847ae96-f21a-493c-b87b-5882a750dce0" />
+
 ## **B.  Information Systems(IS)? and Computer Technology (CT/IT)?**
 <img width="1142" height="643" alt="image" src="https://github.com/user-attachments/assets/bb6a67c1-9b0d-478f-8bbc-b2dd600bd73a" />
 
 : The difference between Information Systems (IS) and Information Technology (IT) is mainly about scope and focus.
 
 **Simple explanation**
+
 IT = the technology itself (computers, networks, software). 💻
 
 IS = the whole system that uses IT + people + processes to manage information. 📊
 
 **Example**
+
 In a company using Salesforce:
 
 IT: the servers, cloud infrastructure, databases, and software platform.
