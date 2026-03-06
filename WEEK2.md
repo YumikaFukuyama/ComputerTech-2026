@@ -46,14 +46,14 @@ IS: how employees use Salesforce, the workflow, data analysis, and decision-maki
 
 **DRAM**（ディーラム：Dynamic Random Access Memory）
 
-Aspect	| ROM (Read-Only Memory)	| DRAM (Dynamic Random Access Memory)
-----|---- 
-Meaning	| Read-Only Memory	| Dynamic Random Access Memory
-Data Storage　| Permanent (non-volatile)	| Temporary (volatile)
-Power Off	| Data remains stored even when power is off	| Data disappears when power is off
-Usage	| Stores important system instructions like firmware	| Used as the computer’s main working memory
-Speed	| Generally slower to write but stable	| Fast access for running programs
-Example Use	| BIOS / system startup instructions	| Programs and data currently in use
+Aspect	      |                 ROM (Read-Only Memory)             	|    DRAM (Dynamic Random Access Memory)
+--------------------------------------------------------------------|------------------------------------
+Meaning　　　	| 　                  　Read-Only Memory	          　|    Dynamic Random Access Memory
+Data Storage　|               Permanent (non-volatile)             	|     Temporary (volatile)
+Power Off　　	|      Data remains stored even when power is off     |    Data disappears when power is off
+Usage	　　　　 | Stores important system instructions like firmware	|    Used as the computer’s main working memory
+Speed	　　　　 |         Generally slower to write but stable      	|    Fast access for running programs
+Example Use　	|           BIOS / system startup instructions	      |    Programs and data currently in use
 
 
 
