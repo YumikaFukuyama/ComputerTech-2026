@@ -33,7 +33,7 @@ When body temperature increases, the mercury expands and rises inside the glass 
 水銀柱の高さを目盛りで読み取ります。  
 The temperature is read by checking the height of the mercury column on the scale.  
 
-- Characteristics  　　
+- Characteristics  
 連続的な変化 → アナログ信号  
 Continuous change → analog signal  
 
