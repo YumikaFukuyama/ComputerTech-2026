@@ -24,28 +24,28 @@
 
 <水銀体温計（Mercury Thermometer）— アナログ / Analog>
 
-- Mechanism -
+- Mechanism　　
 体温が上がると水銀が膨張し、ガラス管の中を上昇します。  
 When body temperature increases, the mercury expands and rises inside the glass tube.  
-- How it measures -
+- How it measures　　
 水銀柱の高さを目盛りで読み取ります。  
 The temperature is read by checking the height of the mercury column on the scale.  
 
-- Characteristics -
+- Characteristics　　
 連続的な変化 → アナログ信号  
 Continuous change → analog signal  
 
 <電子体温計（Digital Thermometer）— デジタル / Digital>
 
-- Mechanism -  
+- Mechanism　　
 温度センサーが温度を電気信号に変換し、内部回路が数値に変換して表示します。  
 A temperature sensor converts temperature into an electrical signal, and the circuit converts it into numbers displayed on the screen.  
 
-- How it measures -  
+- How it measures　　
 センサー → 電気信号 → デジタルデータ → 数値表示  
 Sensor → electrical signal → digital data → numeric display  
 
-- Characteristics -  
+- Characteristics　　
 数値データで表示  
 Shows temperature as numerical data  
 
@@ -53,7 +53,8 @@ Shows temperature as numerical data
 Faster measurement (about 10–60 seconds)  
 
 ## 🍀C. The Construction (數位施工)
-
+### Part 1: Basic Elite Foundation (20 基礎實驗)
+https://colab.research.google.com/drive/1cmLUzgsbvLi9sXXpUT6JjQcocHBXqDD9#scrollTo=V1bT22W8Pk6R
 
 
 
