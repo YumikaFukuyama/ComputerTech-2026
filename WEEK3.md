@@ -1,7 +1,8 @@
 # 🍁Unit 1 Blueprint of Bits (數位藍圖：進位與編碼) 🏗️ W03
 ## B.  “Master the Bits, Master the World”
 ### ASCII  ~ How does 01000001 become 'A'? ~
-> ASCII code stands for American Standard Code for Information Interchange. It is a character-encoding system used by computers to represent text using numbers.  
+> ASCII code stands for American Standard Code for Information Interchange. It is a character-encoding system used by computers to represent text using numbers.
+
 > コンピュータは二進数しか扱えないため，文字データも二進数(つまり整数)として表現される．コンピュータは，ある二進数を特定の文字だと思いこんで処理する約束になっている．このような，文字を表現する二進数のことを特に文字コードと呼ぶ．そこで，どの数値とどの文字を対応させるかを決めて，一覧表を作成することなる．現代のコンピュータでは標準的な文字コード表が決まっている．特にアルファベットと記号ではASCII(アスキー)コード表が使用される．
 
 | Character | ASCII value | Binary   |
