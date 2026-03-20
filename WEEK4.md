@@ -1,5 +1,6 @@
 # Unit 1 Blueprint of Bits (數位藍圖：進位與編碼) 🏗️, W02-W03
-###　Lab 20: Digital Sampling (數位採樣：現實轉數位)
+### Lab 20: Digital Sampling (數位採樣：現實轉數位)
+
 <img width="432" height="131" alt="image" src="https://github.com/user-attachments/assets/7dc5b752-b8f7-4c0d-84fe-e58490226206" />
 
 ### 1. What is a Bit?  
@@ -9,6 +10,7 @@ If you have n bits, you can represent:
 - 2^n different values
 
 Examples:
+
 - 1 bit → 2 values
 - 8 bits → 256 values
 - 32 bits → about 4.3 billion values
@@ -71,9 +73,13 @@ Bits	Number of Values	Meaning
 
 ## CMOS - CMOS = Complementary Metal-Oxide-Semiconductor(相補型金属酸化膜半導体)
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/219b20d0-a11a-4315-8861-a023c10b1811" />
+
+
 1️⃣ Basic Structure
 
 A CMOS circuit uses two types of transistors:  
+
 ‐ Type	Name	Behavior  
 - P-type MOSFET	PMOS	Conducts when voltage is low, blocks when high
 - N-type MOSFET	NMOS	Conducts when voltage is high, blocks when low
@@ -82,13 +88,13 @@ A CMOS circuit uses two types of transistors:
 
 2️⃣ Representing 0 and 1 (bit perspective)
 Input = 1 (high voltage):  
-- NMOS conducts → current flows to ground
+→ NMOS conducts → current flows to ground
 
 PMOS blocks → no current from Vdd  
 → Output = 0 (low voltage)
 
 Input = 0 (low voltage):  
-- NMOS blocks → no current to ground
+→ NMOS blocks → no current to ground
 
 PMOS conducts → current flows from Vdd  
 → Output = 1 (high voltage)
@@ -96,11 +102,13 @@ PMOS conducts → current flows from Vdd
 So, logic 0 and 1 are represented by voltage levels, controlled by complementary transistor pairs.
 
 3️⃣ Why CMOS uses low power  
+
 - Only one transistor conducts at a time
 - When storing a bit (0 or 1), almost no current flows
 - Makes CMOS very energy-efficient and produces little heat
 
 4️⃣ Applications  
+
 - CPUs, memory, and logic ICs
 - CMOS image sensors in cameras are a practical application of the same technology
 
