@@ -87,6 +87,7 @@ A CMOS circuit uses two types of transistors:
 “Complementary” means PMOS and NMOS are paired so that one conducts while the other blocks.
 
 2️⃣ Representing 0 and 1 (bit perspective)
+
 Input = 1 (high voltage):  
 → NMOS conducts → current flows to ground
 
@@ -112,9 +113,31 @@ So, logic 0 and 1 are represented by voltage levels, controlled by complementary
 - CPUs, memory, and logic ICs
 - CMOS image sensors in cameras are a practical application of the same technology
 
+---
 
+Key points:
 
+1.Two types of switches (transistors)
+- PMOS → “on” when voltage is low
+- NMOS → “on” when voltage is high
 
+2. They work together so that only one conducts at a time.
+- Represents 0 and 1
+- High voltage → 1
+- Low voltage → 0
+
+This is how computers read and store information.
+
+3. Very energy-efficient
+- Almost no power is used when storing a 0 or 1
+- That’s why CPUs and memory chips use CMOS technology.
+
+4. Where you see it
+- CPU and memory chips in computers
+- Camera sensors in phones and digital cameras
+- Small memory in PCs that stores BIOS settings (kept alive by a little battery)
+
+CMOS is a type of chip technology that lets computers and devices handle bits (0 and 1) efficiently with very little power.
 
 
 
