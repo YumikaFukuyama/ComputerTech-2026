@@ -117,7 +117,7 @@ So, logic 0 and 1 are represented by voltage levels, controlled by complementary
 
 Key points:
 
-1.Two types of switches (transistors)
+1. Two types of switches (transistors)
 - PMOS → “on” when voltage is low
 - NMOS → “on” when voltage is high
 
@@ -137,7 +137,7 @@ This is how computers read and store information.
 - Camera sensors in phones and digital cameras
 - Small memory in PCs that stores BIOS settings (kept alive by a little battery)
 
-CMOS is a type of chip technology that lets computers and devices handle bits (0 and 1) efficiently with very little power.
+> CMOS is a type of chip technology that lets computers and devices handle bits (0 and 1) efficiently with very little power.
 
 
 
