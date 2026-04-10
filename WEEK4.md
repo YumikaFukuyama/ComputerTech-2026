@@ -69,6 +69,9 @@ Bits	Number of Values	Meaning
 <img width="1000" height="654" alt="image" src="https://github.com/user-attachments/assets/610c105f-43aa-49d9-b5fc-32609d146ba2" />
 
 **(2) Check Your IP Address**
+1. windows key + R
+2. cmd (コマンドプロンプト)
+
 <img width="681" height="409" alt="image" src="https://github.com/user-attachments/assets/580d7821-2438-45a4-bf24-476c4fe8ce69" />
 
 ## CMOS - CMOS = Complementary Metal-Oxide-Semiconductor(相補型金属酸化膜半導体)
