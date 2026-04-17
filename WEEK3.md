@@ -129,23 +129,42 @@ Bitmask to isolate specific bits within a status byte　　
 <img width="620" height="188" alt="image" src="https://github.com/user-attachments/assets/400b86d7-deaa-4be1-a62d-af541e1004e4" />
 
 ### 🔴 Part 2: Advanced Elite Spire (Option)
-
 **Lab 21: The XOR Scrambler (XOR 加密)**
+
+<img width="517" height="184" alt="image" src="https://github.com/user-attachments/assets/d0d48272-a4d4-4ee9-aefd-4bfcbd61dc02" />
 
 **Lab 22: XOR Swap Trick (不需暫存器交換位元)**
 
+<img width="482" height="184" alt="image" src="https://github.com/user-attachments/assets/9a12b57e-5654-484a-94f0-51bc6c430a25" />
+
 **Lab 23: Hamming Distance (噪音測量)**
+
+<img width="649" height="159" alt="image" src="https://github.com/user-attachments/assets/2e733377-f8f9-4807-bd94-2a751415eb14" />
 
 **Lab 24: IP Address to 32-bit Integer**
 
+<img width="767" height="216" alt="image" src="https://github.com/user-attachments/assets/4ae47924-6a4c-44a6-abfc-8ec913b1427a" />
+
 **Lab 25: Subnet Masking (數位分層邊界)**
+
+<img width="530" height="161" alt="image" src="https://github.com/user-attachments/assets/81ad922f-baaa-454f-8ef7-757cf0284695" />
 
 **Lab 26: QR Code Layout (視覺二進位)**
 
+<img width="810" height="201" alt="image" src="https://github.com/user-attachments/assets/88b5bdb4-4e29-4e17-80d2-28a0a1930801" />
+
 **Lab 27: Gray Code (防錯旋轉編碼)**
+
+<img width="514" height="188" alt="image" src="https://github.com/user-attachments/assets/d6458e71-f985-4ba8-814a-f6da80ff37f9" />
 
 **Lab 28: Fixed-point Calculation (財務精算)**
 
+<img width="624" height="190" alt="image" src="https://github.com/user-attachments/assets/f18aa4a8-3f9e-4c9d-9749-718ee14d001c" />
+
 **Lab 29: Parity Matrix (2D 錯誤修正修復)**
 
+<img width="507" height="158" alt="image" src="https://github.com/user-attachments/assets/03e1c0bf-0daf-42f6-9e24-4cef057d8372" />
+
 **Lab 30: Final Synthesis - IoT Secure Packet 🏗️**
+
+<img width="818" height="256" alt="image" src="https://github.com/user-attachments/assets/c350c799-5c36-49f3-a7fc-9dc347dfa9ba" />
