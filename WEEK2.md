@@ -31,7 +31,7 @@ IS: how employees use Salesforce, the workflow, data analysis, and decision-maki
 <img width="800" height="730" alt="image" src="https://github.com/user-attachments/assets/9847ae96-f21a-493c-b87b-5882a750dce0" />
 
 # 🍁Unit 1 Blueprint of Bits (數位藍圖：進位與編碼) 🏗️W02
-## 🍉2-04. ROM & DRAM
+## 🍉A. 2-04. ROM & DRAM
 **ROM**（Read Only Memory）
 > a type of computer memory that stores permanent data and instructions for the device to start up.
 
