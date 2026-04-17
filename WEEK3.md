@@ -69,13 +69,13 @@ Translating human-readable text into a language that computers can understand (0
 
 <img width="856" height="564" alt="image" src="https://github.com/user-attachments/assets/12d3d784-e61f-48ec-9bd6-bb25910fb92c" />
 
-**Lab 2: Hexadecimal Branding (十六進位色彩)**
+**Lab 2: Hexadecimal Branding (十六進位色彩)**  
 defines a function that converts standard RGB (Red, Green, Blue) color values into a Hexadecimal (Hex) color code　　
 **RGB（赤、緑、青）の数値を、Webデザインなどで標準的に使われる16進数 HEX**のカラーコードに変換する関数
 
 <img width="730" height="226" alt="image" src="https://github.com/user-attachments/assets/b07e69a8-b0b5-4ca4-883d-3d327fc38a5a" />
 
-**Lab 3: Bitwise AND Flag Check (按位元與：權限檢查)**
+**Lab 3: Bitwise AND Flag Check (按位元與：權限檢查)**  
 Bitmask to isolate specific bits within a status byte　　
 ビット演算Bitwise Operationというテクニックを使って、コンピュータの状態をチェックする仕組みを表現しています
 
