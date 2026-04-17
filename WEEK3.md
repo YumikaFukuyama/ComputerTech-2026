@@ -63,29 +63,89 @@ Faster measurement (about 10–60 seconds)
 ## 🍀C. The Construction (數位施工)
 ### Part 1: Basic Elite Foundation (20 基礎實驗)
 
+**Lab 1: Binary Decoding (二進位解碼)**  
+Translating human-readable text into a language that computers can understand (0s and 1s)   
+人間が使う文字を、コンピュータが理解できる言葉（0と1）に翻訳する
 
+<img width="856" height="564" alt="image" src="https://github.com/user-attachments/assets/12d3d784-e61f-48ec-9bd6-bb25910fb92c" />
 
+**Lab 2: Hexadecimal Branding (十六進位色彩)**
+defines a function that converts standard RGB (Red, Green, Blue) color values into a Hexadecimal (Hex) color code　　
+**RGB（赤、緑、青）の数値を、Webデザインなどで標準的に使われる16進数 HEX**のカラーコードに変換する関数
 
+<img width="730" height="226" alt="image" src="https://github.com/user-attachments/assets/b07e69a8-b0b5-4ca4-883d-3d327fc38a5a" />
 
+**Lab 3: Bitwise AND Flag Check (按位元與：權限檢查)**
+Bitmask to isolate specific bits within a status byte　　
+ビット演算Bitwise Operationというテクニックを使って、コンピュータの状態をチェックする仕組みを表現しています
 
+<img width="624" height="214" alt="image" src="https://github.com/user-attachments/assets/bd3b8d2d-9857-455e-b42a-f5f894d7a159" />
 
+**Lab 4: Bitwise OR Flag Setting (按位元或：合併狀態)**
+<img width="576" height="215" alt="image" src="https://github.com/user-attachments/assets/0873d18f-a25d-480a-8f7f-6fecd0416eba" />
 
+**Lab 5: Bitwise NOT (按位元非：反轉世界)**
+<img width="765" height="200" alt="image" src="https://github.com/user-attachments/assets/c3b57303-5f8a-456a-adc1-31c7292af4a3" />
 
+**Lab 6: Bitwise Shift Left (向左位移：硬體加速乘法)**
+<img width="599" height="162" alt="image" src="https://github.com/user-attachments/assets/0229a538-11d8-40a6-9fa7-b10f8806e7d8" />
 
+**Lab 7: Bitwise Shift Right (向右位移：數據解鎖)**
+<img width="598" height="157" alt="image" src="https://github.com/user-attachments/assets/5aa23e36-178c-4ee7-b6dd-1096d2db1628" />
 
+**Lab 8: ASCII Table Exploration (ASCII 探索)**
+<img width="472" height="264" alt="image" src="https://github.com/user-attachments/assets/abd88531-a648-4687-8dcd-4bf82ed81ebf" />
 
+**Lab 9: Unicode & Emojis (萬國碼與 Emoji)**
+<img width="858" height="189" alt="image" src="https://github.com/user-attachments/assets/1ba3720f-abe4-40e4-ac17-d2223e859bf3" />
 
+**Lab 10: Big5 vs. UTF-8 (Legacy vs. Modern)**
+<img width="635" height="298" alt="image" src="https://github.com/user-attachments/assets/9087937a-bdc1-485c-93d5-15a5b096ccfd" />
 
+**Lab 11: Base64 Encoding (網路傳輸編碼)**
+<img width="539" height="187" alt="image" src="https://github.com/user-attachments/assets/24de221b-918a-4e01-9a8c-59cf11c23951" />
 
+**Lab 12: Simple Parity (奇偶校驗：最簡保衛戰)**
+<img width="623" height="218" alt="image" src="https://github.com/user-attachments/assets/0c14c67f-3203-4908-9ad9-dd4665003e46" />
 
+**Lab 13: Checksum (總和校驗：封包保險)**
+<img width="513" height="169" alt="image" src="https://github.com/user-attachments/assets/09cc0cf7-9a10-4552-815d-c25b15c78b53" />
 
+**Lab 14: RLE Compression (Run-Length Encoding)**
+<img width="676" height="191" alt="image" src="https://github.com/user-attachments/assets/09b63b5b-84fe-48fe-99ae-2016a8aec68b" />
 
+**Lab 15: Magic Numbers (檔案身分證)**
+<img width="408" height="198" alt="image" src="https://github.com/user-attachments/assets/fa5431b0-4b5f-4a2c-8f5d-9fce128a0a3c" />
 
+**Lab 16: Logical AND Gate (邏輯與：雙重保險)**
+**Lab 17: Logical OR Gate (邏輯或：警報系統)**  
+<img width="511" height="243" alt="image" src="https://github.com/user-attachments/assets/906af27e-4a8d-426c-a9cb-4e9afeace88f" />
 
+**Lab 18: Logical NOT Gate (邏輯非：電路反轉)**
+**Lab 19: Logical NAND Gate (通用邏輯閘：數位建築之母)**  
+<img width="631" height="346" alt="image" src="https://github.com/user-attachments/assets/bc920c6e-72e7-47bb-98cb-caf580d482d1" />
 
+**Lab 20: Digital Sampling (數位採樣：現實轉數位)**
+<img width="620" height="188" alt="image" src="https://github.com/user-attachments/assets/400b86d7-deaa-4be1-a62d-af541e1004e4" />
 
+### 🔴 Part 2: Advanced Elite Spire (Option)
 
+**Lab 21: The XOR Scrambler (XOR 加密)**
 
+**Lab 22: XOR Swap Trick (不需暫存器交換位元)**
 
+**Lab 23: Hamming Distance (噪音測量)**
 
+**Lab 24: IP Address to 32-bit Integer**
 
+**Lab 25: Subnet Masking (數位分層邊界)**
+
+**Lab 26: QR Code Layout (視覺二進位)**
+
+**Lab 27: Gray Code (防錯旋轉編碼)**
+
+**Lab 28: Fixed-point Calculation (財務精算)**
+
+**Lab 29: Parity Matrix (2D 錯誤修正修復)**
+
+**Lab 30: Final Synthesis - IoT Secure Packet 🏗️**
