@@ -1,6 +1,9 @@
 # 🍁Unit 1 Blueprint of Bits (數位藍圖：進位與編碼) 🏗️ W03
 ## B.  “Master the Bits, Master the World”
 ### ASCII  ~ How does 01000001 become 'A'? ~
+
+<img width="667" height="477" alt="image" src="https://github.com/user-attachments/assets/14a7493e-d262-4187-a77f-43ef7feec5cc" />
+
 > ASCII code stands for American Standard Code for Information Interchange. It is a character-encoding system used by computers to represent text using numbers.
 
 > コンピュータは二進数しか扱えないため，文字データも二進数(つまり整数)として表現される．コンピュータは，ある二進数を特定の文字だと思いこんで処理する約束になっている．このような，文字を表現する二進数のことを特に文字コードと呼ぶ．そこで，どの数値とどの文字を対応させるかを決めて，一覧表を作成することなる．現代のコンピュータでは標準的な文字コード表が決まっている．特にアルファベットと記号ではASCII(アスキー)コード表が使用される．
@@ -15,6 +18,9 @@
 
 ## The Evolution of Bits
 ### 类比（Analog）与数位（Digital）
+
+<img width="962" height="630" alt="image" src="https://github.com/user-attachments/assets/031af372-8aa1-4322-9bbc-a35fd335edfb" />
+
 > Analog signals vary continuously over time. The values can take any number within a range.  
 > アナログは音や温度など連続的に変化する物理量（連続的データ）をそのまま記録し、自然で滑らかな表現が可能ですが、劣化しやすい特徴.
 
@@ -56,7 +62,7 @@ Faster measurement (about 10–60 seconds)
 
 ## 🍀C. The Construction (數位施工)
 ### Part 1: Basic Elite Foundation (20 基礎實驗)
-https://colab.research.google.com/drive/1cmLUzgsbvLi9sXXpUT6JjQcocHBXqDD9#scrollTo=V1bT22W8Pk6R
+
 
 
 
